@@ -1,0 +1,3 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/fast-rcnn/caffe-fast-rcnn"
+}
